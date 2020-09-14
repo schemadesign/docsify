@@ -1,0 +1,13 @@
+:root {
+  --base-font-size: 15px;
+  --theme-color   : #ff615d;
+
+  
+  /* Sidebar
+  ============================================================================= */
+  --sidebar-background                          : #f6f6f6;
+  --sidebar-toggle-background                   : ;
+  --sidebar-toggle-offset-top                   : calc(35px - (var(--sidebar-toggle-height) / 2));
+  /* --sidebar-toggle-icon-color                   : #34444c; */
+
+}
