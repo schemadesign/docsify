@@ -1,24 +1,30 @@
 # Copy Guideline
 
-#### Discovery
+### Discovery
+
+![Discovery Tile](/images/discovery.png ':size=300')
+
 - Title : **60 words**
 - Precis: **160 words**
 - Text : **100-350 words**
 
-#### Insight
+### Insight
+![Discovery Tile](/images/insight.png ':size=300')
 - Title : **60 words**
 - Precis: **160 words**
 - Text : **600-800 words**
 
-#### Long Read
+### Long Read
 - Title : **60 words**
 - Precis: **160 words**
 - Text : **2000-4000 words**
 
-#### Explainer
+### Explainer
+![Discovery Tile](/images/explainer.png ':size=300')
 - Title : **60 words**
 - Precis: **160 words**
 - Text : **600-800 words**
 
-#### Publication
+### Publication
+![Discovery Tile](/images/publication.png ':size=300')
 - Title : **60 words**

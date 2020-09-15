@@ -1,7 +1,6 @@
 # Tutorials for every technologist
 
-Learn about all these great technologies:
+Learn about the different type of templates available through SchemaCMS
 
-[A](./A/index.md)
-[B](./B/index.md)
-[C](./C/index.md)
+- [Block Templates](/docs/templates/block/index.md)
+- [Page Templates](/docs/templates/page/index.md)
