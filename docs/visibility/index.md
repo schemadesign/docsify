@@ -1,6 +1,8 @@
-# Guidelines for asset and copy management
+# Element Visibility
 
-Learn about all these great technologies:
+In this section, you will find information pertaining to an element visibility and how different actions cahnge the visibility level of said element.
 
-[Assets](./assets/index.md)
-[Copy](./copy/index.md)
+- [Public vs Private elements](/docs/visibility/privacy/index.md)
+- [Saving an element](/docs/visibility/save/index.md)
+- [Publishing an element](/docs/visibility/publish/index.md)
+- [Preview feature](/docs/visibility/preview/index.md)

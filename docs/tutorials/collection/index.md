@@ -1,3 +1,3 @@
-# How to add a Collection
+# Add a Collection
 
-Under construction
+### Coming soon!
