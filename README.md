@@ -1,5 +1,7 @@
-# Welcome to Docsify Page!
+# Trase Insights X SchemaCMS
 
-This site was created using [**Docsify**](https://docsify.js.org), which is an open source documentation site generator, and imported in GitHub page. This site was created for [**Opensource.com**](https://opensource.com) demo.
+The Trase Insights site is supported by SchemaCMS. You will find usefull resources on this site regarding asset and copy guidelines, as well as currently available templates, element visbility and a helper section. 
+
+*Note that this site is still under construction and will evolve as the product does.*
 
 ![Welcome to Opensource.com](./images/cover.jpg)

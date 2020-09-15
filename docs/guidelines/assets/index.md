@@ -47,7 +47,7 @@
 
 
 ### Insight Thumbnail Images | Dataviz
-![Insights landing page](/images/insight_thumbnail.png)
+![Insights landing page](/images/insight_thumbnail_dataviz.png)
 - Ratio : **9:10**
 - Size: **720 x 800 px**
 - Save for web on Photoshop : **JPS with quality 50**
