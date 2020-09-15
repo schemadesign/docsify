@@ -8,6 +8,7 @@
   * [Copy](/docs/guidelines/copy/index)
 
 * [How to](/docs/tutorials/index)
+  * [Access your project](/docs/tutorials/log/index)
   * [Add an Insight](/docs/tutorials/insight/index)
   * [Add a Publication](/docs/tutorials/publication/index)
   * [Add a Collection](/docs/tutorials/collection/index)

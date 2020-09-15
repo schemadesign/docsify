@@ -1,3 +1,3 @@
 # About This Site
 
-This site content was generated using Docify by the Schema Design team.
+This site content was put together by the Schema Design team using Docsify.
