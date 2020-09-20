@@ -17,32 +17,56 @@ Image: This is the image that will show up on the header.
 This is the block you choose if you do not wish to have a hero image. Typically this block is chosen if you want the user to quickly get to a visualization. For the card, which will only show up on the landing grid, you will just need to take a screenshot of the visualization and add it to the card image.
 
 ### Body
+![Body_InsightSideBar]
+![BodyCMS]
+This block contains one body text field. Please look up Markdown syntax for styling. 
+
+### Insight Sidebar
+![Body_InsightSideBar]
+![InsightSidebar_CMS]
+This block contains information for sharing the page and insights portal as well as a tag cloud. You do not have to do anything other than add this block to a page to make it populate the cloud and sharing information.
 
 ### Body + Stat
+![BodyStatInsight]
+![BodyStat_CMS]
+This block includes editorial body text as well as a stat. The stat should include a big number that you'd like to point out to users. The body text should follow the normal markdown styling.
 
 ### Body + Insight
+![BodyStatInsight]
+![BodyInsight_CMS]
+This block includes editorial body text as well as a connection to an insight. You can connect a relevent insight to the body text by selecting the insight in the connections drop down.
 
 ### Body + external link
+![BodyExternal]
+![BodyExternal_CMS]
+This block includes editorial body text as well as a connection to an insight. You can connect a relevent insight to the body text by selecting the insight in the connections drop down.
 
 ### Pull Quote
 
-### Next-Page link
+### Table
+![Table]
+![Table_CMS]
+![Table_CMS_Preview]
+This block allows you to have a table in an insight. The table is a markdown element and should follow normal markdown styling.
 
-### Insight Sidebar
+### Image two-collumn
+
+
+### Image inline
+
+
+### Image Full-Width
+![ImageFull]
+![ImageFull_CMS]
+This block is for images that take up the entire screen.
+
+### Observable
 
 ### Single View
 
 ### Slideshow
 
 ### Multistate
-
-### Table
-
-### Image two-collumn
-
-### Image inline
-
-### Image Full-Width
 
 ## Yearbook Specific 
 
@@ -57,3 +81,6 @@ This is the block you choose if you do not wish to have a hero image. Typically 
 ### Matrix Row
 
 ### Carousel
+
+### Next-Page link
+
