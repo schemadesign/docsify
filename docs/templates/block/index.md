@@ -1,7 +1,7 @@
 # Block Templates
 
 ### Hero Image
-![HeroImage](/images/hero_image.png)
+![HeroImage]
 ![HeroImageCMS]
 This block relates to your HERO content. You should specifiy the following information, as needed:
 - Author: The name of the person or persons who wrote this article. This will show up on the card's hover on the landing grid
@@ -60,13 +60,21 @@ This block allows you to have a table in an insight. The table is a markdown ele
 ![ImageFull_CMS]
 This block is for images that take up the entire screen.
 
-### Observable
+## Observable
 
 ### Single View
+![SingleView]
+![SingleView_CMS]
 
 ### Slideshow
+![Slideshow]
+![Slideshow_CMS]
+![Slideshow_CMS_expanded]
+
 
 ### Multistate
+![Multistate]
+![Multistate_CMS]
 
 ## Yearbook Specific 
 
