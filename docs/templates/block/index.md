@@ -1,6 +1,8 @@
 # Block Templates
 
 ### Hero Image
+![HeroImage](/images/hero_image.png)
+![HeroImageCMS]
 This block relates to your HERO content. You should specifiy the following information, as needed:
 - Author: The name of the person or persons who wrote this article. This will show up on the card's hover on the landing grid
 - Card Image: This is the image that shows up on the landing grid.
@@ -9,11 +11,10 @@ This block relates to your HERO content. You should specifiy the following infor
 Image: This is the image that will show up on the header.
 - Image Caption: This is the caption under the photo.
 
-### Hero Title
-
-### Card Image
-
-### Hero Date
+### Hero Text
+![HeroText]
+![HeroTextCMS]
+This is the block you choose if you do not wish to have a hero image. Typically this block is chosen if you want the user to quickly get to a visualization. For the card, which will only show up on the landing grid, you will just need to take a screenshot of the visualization and add it to the card image.
 
 ### Body
 
