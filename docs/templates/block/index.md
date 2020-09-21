@@ -110,21 +110,3 @@ The Trase Yearbook frontend is expecting up to 3 visual components on each visua
 You can choose any cell or variable from the notebook to link to each of these components. In this case, only named cells ( chart = {....} ) are allowed
 In addition to the visual component, you need to tell the CMS which notebook cells correspond to the states and initDraw cells
  ![Multistate_6]
-
-
-## Yearbook Specific 
-
-### Yearbook Hero
-
-### Yearbook Context
-
-### Yearbook Stats
-
-### Matrix Header
-
-### Matrix Row
-
-### Carousel
-
-### Next-Page link
-
