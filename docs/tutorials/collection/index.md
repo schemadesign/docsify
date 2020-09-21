@@ -1,7 +1,7 @@
 # How to add a Collection page
 
 #### 1. Go to the Content section, then click on Collections
-![collectionstutorial_1_CMS]
+![collectionstutorial_1_CMS](/images/collectionstutorial_1_CMS.png)
 
 #### 2. To add a new Collections Page, click on the "+" sign located on the top right of the page
 *Note : To edit an existing Collections Page, simply click on its tile. Make sure to save your changes!
