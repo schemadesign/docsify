@@ -14,7 +14,7 @@ Click the tile to access the project.
 
 Each project dashboard shows data sources, pages and users. 
 As an Editor, you’ll want to go to the Pages directory.
-You can do so by clicking on the Pages tile of by clicking on the Content tab in the navigation header.
+You can do so by clicking on the **Pages tile** of by clicking on the **Content tab** in the navigation header.
 ![Image full width](/images/3.png)
 
 ### Pages
