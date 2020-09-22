@@ -42,6 +42,8 @@ This block includes editorial body text as well as a connection to an insight. Y
 This block includes editorial body text as well as a connection to an insight. You can connect a relevent insight to the body text by selecting the insight in the connections drop down.
 
 ### Pull Quote
+![pullquote](/images/pullquote.png)
+This block allows you to pull out a quote from an article and credit it to its author.
 
 ### Table
 ![Table](/images/Table.png)
@@ -50,10 +52,12 @@ This block includes editorial body text as well as a connection to an insight. Y
 This block allows you to have a table in an insight. The table is a markdown element and should follow normal markdown styling.
 
 ### Image two-collumn
-
+![image_two](/images/image_two.png)
+This block is for two collumn-image.
 
 ### Image inline
-
+![image_inline](/images/image_inline.png)
+This block is for smaller image.
 
 ### Image Full-Width
 ![ImageFull](/images/imagefull.png)
@@ -86,13 +90,13 @@ You can put different notebooks in each element, or the same notebook with diffe
 When you click Save, the front end will render each of these Observable Elements into a slideshow carousel.
 
 ### Multistate
-![Multistate](/images/multistate.png)
+![Multistate](/images/Multistate.png)
 ![Multistate_CMS](/images/multistate_cms.png)
 The [data] Multistate is designed for observable visualizations that have multiple different states. Let’s use this one for reference: https://observablehq.com/d/dee964b806395dd9. When the frontend renders the notebook, it will also include an interactive element for toggling among the notebook states. This adds a couple of additional requirements to the notebook and the CMS specifications. 
 
 **On the notebook:**
 - The notebook should have a named cell with an array representing the different states. The state names can take on any values you wish. 
-![Multistate_1](/images/multistate_1.png)
+![Multistate_1](/images/Multistate_1.png)
 
 - For purposes of testing the different states in the notebook itself, it may be helpful to include a selection input, but this will not be passed along to the front end:
 ![Multistate_2](/images/multistate_2.png)
