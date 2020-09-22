@@ -93,20 +93,25 @@ The [data] Multistate is designed for observable visualizations that have multip
 **On the notebook:**
 - The notebook should have a named cell with an array representing the different states. The state names can take on any values you wish. 
 ![Multistate_1](/images/multistate_1.png)
+
 - For purposes of testing the different states in the notebook itself, it may be helpful to include a selection input, but this will not be passed along to the front end:
 ![Multistate_2](/images/multistate_2.png)
-The main chart svg should follow this general update pattern, and respond to changes in the state 
+
+- The main chart svg should follow this general update pattern, and respond to changes in the state 
 ![Multistate_3](/images/multistate_3.png)
-Finally, the notebook must also have a named cell in which the update function is called once. Without this, the chart won’t render. 
+
+- Finally, the notebook must also have a named cell in which the update function is called once. Without this, the chart won’t render. 
 ![Multistate_4](/images/multistate_4.png)
-In Schema CMS:
+
+**In Schema CMS:**
 ![Multistate_5](/images/multistate_5.png)
+
 The [data] Multistate block consists of a single Multistate Observable Element, which has the same 4 input fields as the Observable Element before, but with slightly different requirements on the ObservableHQ Cells field:
-ObservableHQ User: observable username, or d if it’s an unpublished notebook (with link sharing. If it’s ever a question, this value is taken from the URL: https://www.observable.com/<username>/…..
-ObservableHQ Notebook name: name or id of chosen notebook, taken from last part of the URL: https://www.observable.com/d/<notebook id>
-ObservableHQ Cells: Comma-separated list of key:value pairs that link frontend visual components to specific cells (or variables) from the notebook. 
-The pattern is: <frontend visual component>: <notebook cell/variable>
-The Trase Yearbook frontend is expecting up to 3 visual components on each visualization: chart, chartTitleCard, and chartLegend. The names are case-sensitive. 
+- ObservableHQ User: observable username, or d if it’s an unpublished notebook (with link sharing. If it’s ever a question, this value is taken from the URL: https://www.observable.com/<username>/…..
+- ObservableHQ Notebook name: name or id of chosen notebook, taken from last part of the URL: https://www.observable.com/d/<notebook id>
+- ObservableHQ Cells: Comma-separated list of key:value pairs that link frontend visual components to specific cells (or variables) from the notebook. 
+- The pattern is: <frontend visual component>: <notebook cell/variable>
+**The Trase Yearbook frontend is expecting up to 3 visual components on each visualization: chart, chartTitleCard, and chartLegend. The names are case-sensitive.**
 You can choose any cell or variable from the notebook to link to each of these components. In this case, only named cells ( chart = {....} ) are allowed
 In addition to the visual component, you need to tell the CMS which notebook cells correspond to the states and initDraw cells
  ![Multistate_6](/images/multistate_6.png)
