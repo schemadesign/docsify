@@ -10,12 +10,12 @@
 ![insightstutorial_2](/images/insightstutorial_2.png)
 
 #### 3. Give a reference name to your Insight
-This step is mandatory, and you will not be able to "Create" your publication if you skip that step. The current nomenclature is **[Insight] Title**. A well defined naming convention will increase readability and understanding of the elements.
+This step is mandatory, and you will not be able to "Create" your insight if you skip that step. The current nomenclature is **[Insight] Title**. A well defined naming convention will increase readability and understanding of the elements.
 
 ![insightstutorial_3](/images/insightstutorial_3.png)
 
 #### 4. Tag your insight
-For your publication to be filtered and displayed correctly. Relevent tags are **Available Languages**, **Commodity**, **Country**, **Content Insight Type**, and **Themes** . 
+For your insight to be filtered and displayed correctly. Relevent tags are **Available Languages**, **Commodity**, **Country**, **Content Insight Type**, and **Themes** . 
 ![insightstutorial_4](/images/insightstutorial_4.png)
 
 #### 5. Select a Template
@@ -43,6 +43,6 @@ You will be able to **Create** your insight as soon as a it has a name and a tem
 ![insightstutorial_7](/images/insightstutorial_7.png)
 
 #### 8. Publishing 
-When your insight is ready to be seen on the portal, click on the **Publish** button. Your insight should be on the publication portal shortly after. Also, please note that all changes made to your insight will be lost if not saved. 
+When your insight is ready to be seen on the portal, click on the **Publish** button. Your insight should be on the insight portal shortly after. Also, please note that all changes made to your insight will be lost if not saved. 
 
 Also, any outstanding change to an existing insight will only be visible once the insight is published again.
