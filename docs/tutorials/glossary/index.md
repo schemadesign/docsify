@@ -16,7 +16,7 @@ To render properly as a footnote, the added definition needs to have the followi
 - ##Anchor-tag
 - ###Definition
 - Long Definition
-![glossary_5](/images/glossary_5.png)
+![glossary_5](/images/Glossary_5.png)
 
 #### 5. Add a glossary term as a footnote
 After you have created and saved your new glossary term, you can see it show up on a page by referencing the **anchor-tag** in the CMS.
