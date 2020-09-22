@@ -60,7 +60,7 @@ This block is for smaller image.
 
 ### Image Full-Width
 ![ImageFull](/images/ImageFull.png)
-![ImageFull_CMS](/images/ImageFull_cms.png)
+![ImageFull_CMS](/images/ImageFull_CMS.png)
 This block is for images that take up the entire screen.
 
 ## Observable
@@ -81,8 +81,8 @@ You can tell the frontend to override that variable with a new value when render
 
 ### Slideshow
 ![Slideshow](/images/Slideshow.png)
-![Slideshow_CMS](/images/Slideshow_cms.png)
-![Slideshow_CMS_expanded](/images/Slideshow_cms_expanded.png)
+![Slideshow_CMS](/images/Slideshow_CMS.png)
+![Slideshow_CMS_expanded](/images/Slideshow_CMS_expanded.png)
 The [data] Slideshow block is very similar to the [data] Single view block, only you can add 2 or more Observable Elements. 
 You can add more Observable Elements by clicking the ‘+’ button under this block. Each Observable element can be expanded to see the same input fields (with the same behavior) as with the [data] Single view block. 
 You can put different notebooks in each element, or the same notebook with different variable overrides. 
@@ -111,6 +111,7 @@ The [data] Multistate is designed for observable visualizations that have multip
 ![Multistate_4](/images/Multistate_4.png)
 
 **In Schema CMS:**
+
 ![Multistate_5](/images/Multistate_5.png)
 
 The [data] Multistate block consists of a single Multistate Observable Element, which has the same 4 input fields as the Observable Element before, but with slightly different requirements on the ObservableHQ Cells field:
@@ -118,7 +119,7 @@ The [data] Multistate block consists of a single Multistate Observable Element, 
 - ObservableHQ Notebook name: name or id of chosen notebook, taken from last part of the URL: https://www.observable.com/d/<notebook id>
 - ObservableHQ Cells: Comma-separated list of key:value pairs that link frontend visual components to specific cells (or variables) from the notebook. 
 - The pattern is: <frontend visual component>: <notebook cell/variable>
-**The Trase Yearbook frontend is expecting up to 3 visual components on each visualization: chart, chartTitleCard, and chartLegend. The names are case-sensitive.**
+The Trase Yearbook frontend is expecting up to 3 visual components on each visualization: chart, chartTitleCard, and chartLegend. The names are case-sensitive.
 You can choose any cell or variable from the notebook to link to each of these components. In this case, only named cells ( chart = {....} ) are allowed
 In addition to the visual component, you need to tell the CMS which notebook cells correspond to the states and initDraw cells
  
