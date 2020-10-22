@@ -21,8 +21,6 @@
   * [Pages](/docs/templates/page/index)
 
 * [Visibility](/docs/visibility/index)
-  * [Private vs Public](/docs/visibility/privacy/index)
-  * [Save](/docs/visibility/save/index)
   * [Publish](/docs/visibility/publish/index)
   * [Preview](/docs/visibility/preview/index)
 
