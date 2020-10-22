@@ -12,9 +12,9 @@
   * [Add an Insight](/docs/tutorials/insight/index)
   * [Add a Publication](/docs/tutorials/publication/index)
   * [Add a Collection](/docs/tutorials/collection/index)
-  * [Update the Glossary](/docs/tutorials/glossary/index)
-  * [Update the Home Nav](/docs/tutorials/navigation/index)
-  * [Update pinned Insights](/docs/tutorials/pinned_insight/index)
+  * [Update Glossary](/docs/tutorials/glossary/index)
+  * [Update Home Nav](/docs/tutorials/navigation/index)
+  * [Update Pinned Insights](/docs/tutorials/pinned_insight/index)
 
 * [Templates](/docs/templates/index)
   * [Blocks](/docs/templates/block/index)
@@ -25,5 +25,7 @@
   * [Save](/docs/visibility/save/index)
   * [Publish](/docs/visibility/publish/index)
   * [Preview](/docs/visibility/preview/index)
+
+* [RSS](/docs/RSS/index)
 
 * [About](/about/index)
